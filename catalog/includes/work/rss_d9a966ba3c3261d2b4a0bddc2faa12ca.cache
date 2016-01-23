@@ -1,0 +1,85 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:18:"osCommerce Add-Ons";s:4:"link";s:25:"http://www.oscommerce.com";s:11:"description";s:29:"osCommerce, Sell With Emotion";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2015 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:53:"http://www.oscommerce.com/images/oscommerce_88x31.gif";s:10:"image_link";s:25:"http://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:18:"Option Types v2 BS";s:4:"link";s:38:"http://addons.oscommerce.com/info/9367";s:11:"description";s:459:"This version of Option Types is based on the version of Zappo.<br />
+Install manual and files have been updated so that it can be used now with osC 2.3.4 Bootstrap GOLD or EDGE version.<br />
+<br />
+This Addon doesn't work with the normal osC 2.3.4!<br />
+For the normal version download here: http://addons.oscommerce.com/info/6818<br />
+<br />
+Support Topic: http://forums.oscommerce.com/topic/338661-contribution-option-types-v2/<br />
+<br />
+FULL PACKAGE!";s:7:"pubDate";s:31:"Sat, 03 Oct 2015 19:21:58 +0200";}i:1;a:4:{s:5:"title";s:21:"Display Tax Info V3.0";s:4:"link";s:38:"http://addons.oscommerce.com/info/9365";s:11:"description";s:169:"Changelog Version 3.1r1<br />
+<br />
+- error fix for multi currencies. Thanks to @Mene for the report<br />
+<br />
+<br />
+Full Package<br />
+Update Instructions included";s:7:"pubDate";s:31:"Fri, 02 Oct 2015 11:24:14 +0200";}i:2;a:4:{s:5:"title";s:21:"Customer Testimonials";s:4:"link";s:38:"http://addons.oscommerce.com/info/9158";s:11:"description";s:3231:"Customer Testimonials for osCommerce version 2.3.4 bootstrap - v2.0bs<br />
+(screen shots included in package)<br />
+<br />
+<br />
+This package contains a responsive version of this addon designed for osCommerce 2.3.4 bootstrap version only.<br />
+ <br />
+-----------------------------------------------------------------------------------------------------------------------<br />
+<br />
+CHANGES MADE FROM THE PREVIOUS V1.3bs BOOTSTRAP VERSION OF THIS ADDON:<br />
+<br />
+1. The module now checks for correct installation of all files and modifications and reports anything missing. <br />
+<br />
+2. Some css styling improvements.<br />
+<br />
+3. Changes to css and css has been removed from user.css and placed in separate files which are then added as heater tags as needed.<br />
+<br />
+4. The install SQL file is no longer used for database modifications. Instead, the database table and all other database configuration entries are now automatically added (and removed) via the module installation/removal. (A check box for the deletion of the databse table is included)<br />
+<br />
+5. jQuery UI is no longer required. Bootstrap carousel is now used for scrolling/fading of testimonials box.<br />
+<br />
+6. Introduction of jquery mobile to enable swiping of the testimonials box on mobile devices, similar to the Specials and What's New scroller boxes add-on here: http://addons.oscommerce.com/info/8065.<br />
+<br />
+7. Added missing SSL code where required.<br />
+<br />
+8. The glyphicons changed to font-awesome in line with latest 234bs edge version.<br />
+<br />
+9. Assistive Technologies added to testimonials write page.<br />
+<br />
+10. Removed redundant database and filename constants (missed from last time).<br />
+<br />
+11. Added a drop down list for language selections in admin (instead of typing language).<br />
+<br />
+12. Module is now easier to install (no core file changes required, only one admin file to modify and no SQL to manually run).<br />
+<br />
+-----------------------------------------------------------------------------------------------------------------------<br />
+<br />
+This package is for a new install of this addon as well as an upgrade from v1.3bs.<br />
+<br />
+It is not intended to be installed on any other version of osCommerce other than the 2.3.4 bootstrap version available at the links below:<br />
+<br />
+Tested on the latest Edge version<br />
+https://github.com/gburton/Responsive-osCommerce<br />
+<br />
+Not fully tested on the released (older) Gold version<br />
+https://github.com/gburton/Responsive-osCommerce/releases/tag/v2.3.4-GOLD<br />
+<br />
+-----------------------------------------------------------------------------------------------------------------------<br />
+<br />
+Full package, for osCommerce 2.3.4 bootstrap version only.<br />
+(non-bs version to be updated shortly)<br />
+<br />
+Full instructions included in package.<br />
+<br />
+Bootstrap demo can be seen here:<br />
+http://www.auzcommerce.com.au/osc234bs_test/<br />
+ <br />
+Report problems or leave comments on the forum support thread located at the link below (any feedback is welcome):<br />
+http://forums.oscommerce.com/topic/398316-contribution-customer-testimonials-for-oscommerce-234/";s:7:"pubDate";s:31:"Fri, 02 Oct 2015 08:32:28 +0200";}i:3;a:4:{s:5:"title";s:54:"Create Account & Manual Order Maker For OSC 2.3.1 V3.0";s:4:"link";s:38:"http://addons.oscommerce.com/info/8334";s:11:"description";s:197:"Updated file set to osC 2.3.4 standards.<br />
+Updated Install Instructions.<br />
+<br />
+Support Topic: http://forums.oscommerce.com/topic/383439-create-account-manual-order-maker-for-osc-231-v30/";s:7:"pubDate";s:31:"Fri, 02 Oct 2015 06:26:32 +0200";}i:4;a:4:{s:5:"title";s:13:"Modular Index";s:4:"link";s:38:"http://addons.oscommerce.com/info/9363";s:11:"description";s:576:"Esta actualizaci&oacute;n incluye:<br />
+ - instrucciones para hacer modular el nivel de productos:<br />
+ - dos modulos nuevos para el nivel de productos: cm_index_product_list_filter y cm_index_product_listing.<br />
+ - peque&ntilde;as correcciones en los modulos anteriores.<br />
+<br />
+------------------------------<br />
+<br />
+This update includes:<br />
+ - Instructions to modulate the level of products:<br />
+ - Two new modules for the level of products: cm_index_product_listing and cm_index_product_list_filter.<br />
+ - Minor corrections in the previous modules.";s:7:"pubDate";s:31:"Thu, 01 Oct 2015 23:23:39 +0200";}}s:11:"items_count";i:5;}
